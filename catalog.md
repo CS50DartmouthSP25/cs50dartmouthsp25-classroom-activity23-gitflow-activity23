@@ -8,7 +8,7 @@
 
 [Geography](geography.md) - Department chair: <aamc14527>
 
-[History](history.md) - Department chair: <github username>
+[History](history.md) - Department chair: <github Sydloss>
 
 [Mathematics](math.md) - Department chair: <Sky-JF> Joao de Araujo Junior
 
