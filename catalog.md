@@ -1,4 +1,4 @@
-![greengoblinmascot](media/gg.jpeg)
+!greengoblinmascot](media/gg.jpeg)
 # Summer 2024 Class Catalog
 ---
 
@@ -6,7 +6,7 @@
 
 [Economics](economics.md) - Department chair: <github username> 
 
-[Geography](geography.md) - Department chair: <github username>
+[Geography](geography.md) - Department chair: wesley-tan
 
 [History](history.md) - Department chair: <github username>
 
