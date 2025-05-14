@@ -10,6 +10,4 @@
 
 [History](history.md) - Department chair: <github Sydloss>
 
-[Mathematics](math.md) - Department chair: <Sky-JF> Joao de Araujo Junior
-
 ---
