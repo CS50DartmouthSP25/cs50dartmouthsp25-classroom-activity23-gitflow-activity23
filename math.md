@@ -1,4 +1,4 @@
-# Mathematics
+# Mathematics Department
 **Chair**: Audrey Olmsted
 
 
