@@ -4,7 +4,7 @@
 
 [English](english.md) - Department chair: saturn-guo
 
-[Economics](economics.md) - Department chair: <github username> 
+[Economics](economics.md) - Department chair: <VaniMiglani> 
 
 [Geography](geography.md) - Department chair: <github username>
 
