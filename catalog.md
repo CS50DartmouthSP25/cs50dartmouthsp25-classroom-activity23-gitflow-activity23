@@ -6,7 +6,7 @@
 
 [Economics](economics.md) - Department chair: <github username> 
 
-[Geography](geography.md) - Department chair: <github username>
+[Engineering](engineering.md) - Department chair: <neo-cai>
 
 [History](history.md) - Department chair: <github username>
 
