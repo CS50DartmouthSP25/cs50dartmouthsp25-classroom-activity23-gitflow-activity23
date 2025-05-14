@@ -6,7 +6,7 @@
 
 [Economics](economics.md) - Department chair: <VaniMiglani> 
 
-[Geography](geography.md) - Department chair: <github username>
+[Geography](geography.md) - Department chair: <aamc14527>
 
 [History](history.md) - Department chair: <github username>
 
