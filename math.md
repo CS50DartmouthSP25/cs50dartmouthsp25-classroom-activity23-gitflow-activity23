@@ -11,4 +11,4 @@
 > Learn proofs and vectors.
 
 **MATH071** _Abstract Algebra_
-> Abstract groups you can't visualize.
+> Abstract groups and rings.
