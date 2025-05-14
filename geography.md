@@ -1,5 +1,5 @@
 # Geography
-
+---
 **GEOG007** _Where is Europe_
 > A deep dive into european geography.
 **GEOG021** _US Infrastructure_
@@ -9,4 +9,4 @@
 **GEOG050** _Water_
 > Geography depends on water.
 
-
+---
