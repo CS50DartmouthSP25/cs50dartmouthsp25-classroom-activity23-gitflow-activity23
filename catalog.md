@@ -4,7 +4,7 @@
 
 [English](english.md) - Department chair: <github username>
 
-[Economics](economics.md) - Department chair: <github username> 
+[Economics](economics.md) - Department chair: <DeoGM2911>
 
 [Geography](geography.md) - Department chair: <github username>
 
